@@ -14,3 +14,6 @@ As for the model it only supports 'svm' or 'gradient boosting', SVM beimng bette
 
 To run the application as a whole 'special.py' is to be used and it will invoke emotional recognition. After you have a definite emotion 'q' is to be pressed to capture that emotion and play a suitable song.
 This will make the emotion capture window exit.
+
+![alt tag](https://user-images.githubusercontent.com/20767029/35637706-02c59806-06db-11e8-9bca-7b84cb4cc3e6.png)
+
